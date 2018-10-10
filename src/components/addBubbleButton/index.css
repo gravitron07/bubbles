@@ -1,0 +1,7 @@
+.add-button-container{
+  display: block;
+  position: absolute;
+  top: 10px;
+  text-align: center;
+  width: 100%;
+}

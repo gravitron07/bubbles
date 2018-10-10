@@ -1,0 +1,21 @@
+.colorGroup{
+  display: flex;
+  margin: 0 0 0 20px;
+}
+.colorGroupContainer{
+  flex-direction: row;
+  margin: 0 0 0 20px;
+}
+.colorGroupItem{
+  flex-direction: row;
+  margin: 0 0 16px 0;
+}
+.formContainer{
+  display: flex;
+}
+.nameBox{
+  flex-direction: row;
+}
+.modalNav{
+  float: right;
+}
